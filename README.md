@@ -1,2 +1,4 @@
-# config-go-40
+# Config Go 40
+
 Read environmental parameter values in Go.
+
